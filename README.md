@@ -1,2 +1,2 @@
-# Bullets-and-walls
-Testing the power of different materials
+# p5.play-boilerplate
+Boiler plate for p5.play
